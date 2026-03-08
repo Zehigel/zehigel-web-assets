@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Oliver Schwaiger
+N:Schwaiger;Oliver;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:zehigel@gmail.com
+TEL;TYPE=CELL:+43 699 12311911
+ORG:Zehigel e.U.
+TITLE:Senior UX/UI Designer (Design Systems)
+item4.URL:https\://www.zehigel.com
+item4.X-ABLabel:_$!<HomePage>!$_
+PHOTO:https://raw.githubusercontent.com/Zehigel/zehigel-web-assets/17daae38f15c7666cd726a45c75c9ca3cd7f37b9/Zehigel-Avatar%402x.png
+END:VCARD
